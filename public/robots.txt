@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://bookclub.ru/sitemap.xml
+Sitemap: https://books-club-website--preview.poehali.dev/sitemap.xml
